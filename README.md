@@ -1,4 +1,4 @@
-# VoiceExpenseTracker-Java
+# Voice Expense Tracker
 
 A JavaFX-based voice-controlled expense tracker with SQLite and speech recognition.
 
